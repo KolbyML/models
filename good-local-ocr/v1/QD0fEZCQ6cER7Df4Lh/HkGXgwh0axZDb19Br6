@@ -1,0 +1,8 @@
+{
+  "abi_version": 1,
+  "library_name": "libscreenai_runtime.so",
+  "runtime_version": "good-local-ocr-google-lens-nativeapi-v1",
+  "official_payload_mode": "owned",
+  "payload_name": "good-local-ocr-google-lens-nativeapi",
+  "bundle_flavor": "production"
+}
